@@ -101,7 +101,3 @@ The ensemble methods typically show 2-5% improvement over single algorithms:
 ## Contributing
 
 Feel free to open issues or submit pull requests to improve the implementations.
-
-## License
-
-This project is open source and available under the MIT License.
